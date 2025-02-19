@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anastasia-buialo
-- 👀 I’m interested in UX
-- 🌱 I’m currently learning accessibility and analytics for UX
+- 👀 I’m interested in UX [more about me](https://bento.me/anastasia-b)
 - 💞️ I’m looking to collaborate on green-tech ideas
 - 📫 How to reach me anastasia.buialo@gmail.com
 
